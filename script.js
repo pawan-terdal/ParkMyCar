@@ -237,3 +237,6 @@ function noRefresh(form_name)
     });
   });
 }
+
+function randomTestFunction() {
+}
